@@ -28,7 +28,7 @@ function setup() {
   circle(910,20,20);
   circle(950,20,20);
   circle(990,20,20);
-  spd = 20;
+  spd = 10;
   xPos = 500;
   text('use left/right or A/D to move player. \n avoid the warning symbols.\n up to 3 lives.\n\nclick the i key to start', 400,500);
 for (let i = 0; i < numScams; i++){
